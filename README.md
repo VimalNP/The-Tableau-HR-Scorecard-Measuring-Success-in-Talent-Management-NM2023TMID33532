@@ -4,3 +4,5 @@
 Dashboard public link - https://public.tableau.com/views/public_tableau_com_16970357026680/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Story public link - https://public.tableau.com/shared/MWX4TJYWT?:display_count=n&:origin=viz_share_link
+
+video demonstration link - https://drive.google.com/file/d/1OUIIdz3BCqqlWjzixDvlmWMxW2g2LJst/view?usp=drivesdk
